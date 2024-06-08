@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in revolutionizing education through AI and machine learning, focusing on creating accessible and high-quality learning experiences for software professionals and corporates.
 - 📫 How to reach me: [abdullahkhan@botcampus.ai](mailto:abdullahkhan@botcampus.ai) or visit our platform at [BotCampus AI](https://learn.botcampus.ai)
-- ⚡ Fun fact: I aim to empower 10 million people with AI and ML skills by 2026 through our comprehensive and practical courses at BotCampus AI.
+- ⚡ Future fact: I aim to empower 10 million people with AI and ML skills by 2026 through our comprehensive and practical courses at BotCampus AI.
 
 ## About BotCampus AI
 BotCampus AI offers a wide range of courses designed to equip learners with industry-relevant skills in AI and ML. Our mission is to provide hands-on learning experiences that prepare professionals for real-world challenges. 
