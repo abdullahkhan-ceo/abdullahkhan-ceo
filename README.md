@@ -1,10 +1,7 @@
 # 👋 Hi, I’m @abdullahkhan-ceo
 
 - 👀 I’m interested in revolutionizing education through AI and machine learning, focusing on creating accessible and high-quality learning experiences for software professionals and corporates.
-- 🌱 I’m currently learning advanced AI applications, business strategies, and the latest trends in educational technology to keep BotCampus AI at the forefront of innovation.
-- 💞️ I’m looking to collaborate on AI-driven educational platforms, innovative tech solutions, and projects that aim to close the skill gap in AI and ML.
 - 📫 How to reach me: [abdullahkhan@botcampus.ai](mailto:abdullahkhan@botcampus.ai) or visit our platform at [BotCampus AI](https://learn.botcampus.ai)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I aim to empower 10 million people with AI and ML skills by 2026 through our comprehensive and practical courses at BotCampus AI.
 
 ## About BotCampus AI
